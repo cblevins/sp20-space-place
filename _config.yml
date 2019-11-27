@@ -9,7 +9,7 @@
 title:       Digital Space and Place
 email:       ''
 description: ''
-baseurl:     'sp20-space-place' # The subpath of your site, e.g. /blog
+baseurl:     '/sp20-space-place' # The subpath of your site, e.g. /blog
 url:         'https://cblevins.github.io' # The base hostname & protocol for your site
 twitter:     ''
 github:      ''
