@@ -14,14 +14,16 @@ Workshop: Introduction to GIS
 - Tim Wallace, ["Kevin Lynch & The Imageable Boston"](http://bostonography.com/2010/kevin-lynch-the-imageable-boston/) *Bostonography* (2010)
 - Shannon Mattern, [“Critiquing Maps II”](https://wordsinspace.net/shannon/2013/09/05/critiquing-maps-ii/) (5 September 2013)
 
-Workshop: Georeferencing
+Workshop: Georeferencing<br>
+*Project Example: Adam & Zach*
 
 **Week 3, 1/22: Cartography**
 - J.B. Harley, "Deconstructing the Map"
 - Barbara Mundy, “Mapping the Aztec Capital: The 1524 Nuremberg Map of Tenochtitlan, Its Sources and Meanings”
 - [GIS Style guide](http://www.gismanual.com/style/) (just read: Topographic and Thematic Maps, Elements Every Map Should Have, and Graphical Hierarchy sections)
 
-Workshop: Map Design
+Workshop: Map Design<br>
+*Project Example: Sebastien & Alex*
 
 **Week 4, 1/29: Place I**
 - Tim Cresswell, *Place: A Short Introduction* (p. 1-12)
@@ -29,7 +31,8 @@ Workshop: Map Design
 - Stephen Kantrowitz, *More Than Freedom: Fighting for Black Citizenship in a White Republic, 1829-1889* (p. 1-9, 13-24)
 - James Oliver Horton and Lois E. Horton, *Black Bostonians*, p. 1-13.
 
-Workshop: Spatial Data
+Workshop: Spatial Data<br>
+*Project Example: Shannon*
 
 **Week 5, 2/5: Space I**
 - Doreen Massey, *For Space*, pp. 1-30.
@@ -37,7 +40,8 @@ Workshop: Spatial Data
 - Karen Kemp, “Spatial Analysis, A-Z” from *The Spatial Humanities* (p. 48-53)
 - James Oliver Horton and Lois E. Horton, *Black Bostonians*, p. 15-27, 73-87.
 
-Workshop: Spatial Analysis
+Workshop: Spatial Analysis<br>
+*Project Example: Alicia & Jill*
 
 *Site Report Due Monday, February 10th by 11:59PM*
 
@@ -45,20 +49,23 @@ Workshop: Spatial Analysis
 - Dolores Hayden, *The Power of Place*, p. 14-62.
 - Brian Page and Eric Ross, ["Envisioning the Urban Past: GIS Reconstruction of a Lost Denver District"](https://www.frontiersin.org/articles/10.3389/fdigh.2015.00003/full), *Frontiers in Digital Humanities* (11 August 2015).
 
-Workshop: 3D Modeling
+Workshop: 3D Modeling<br>
+*Project Example: Anjelica & Cassie*
 
 **Week 7, 2/19: Virtual and Embodied Space**
 - Setha Low, "Embodied Space(s): Anthropological Theories of Body, Space, and Culture”
 - Huang et. al., ["From Archive, to Access, to Experience - Historical Documents as a Basis for Immersive Experiences"](https://doi.org/10.1080/15420353.2018.1498427) *Journal of Map & Geography Libraries* (2018)
 - Spend at least *one hour* in the Snell Library Discovery Lab learning how to use their VR headsets and experimenting with any of the available games. Include your observations or reactions about your experience in your Slack discussion channel for this week.
 
-Workshop: 3D Modeling II
+Workshop: 3D Modeling II<br>
+*Project Example: Danielle & Claire*
 
 **Week 8, 2/26: Space II**
 - Henri Lefebvre, *The Production of Space* (selections)
 - George Chauncey, *Gay New York: Gender, Urban Culture, and the Making of the Gay Male World, 1890-1940* (selections)
 
-Workshop: TBD
+Workshop: TBD<br>
+*Project Example: Carly*
 
 ~~3/4: No Class - Spring Break~~
 
@@ -67,11 +74,14 @@ Workshop: TBD
 - Kay Anderson, "The Idea of Chinatown: The Power of Place and Institutional Practice in the Making of a Racial Category”
 - Nancy Lee Peluso, “Whose Woods are These? Counter-Mapping Forest Territories in Kalimantan, Indonesia” (1995)
 
-Workshop: TBD
+Workshop: TBD<br>
+*Project Example: Hailey & Mahala*
 
 **Week 10, 3/18: Spatial Narratives**
 - David Bodenhamer, “Narrating Space and Place" (2015)
 - Explore the project "Slave Revolt in Jamaica, 1760-1761: A Cartographic Narrative" and then read Vincent Brown, "Mapping a Slave Revolt: Visualizing Spatial History through the Archives of Slavery" (2015)
+
+*Project Example: Nav*
 
 **Week 11, 3/25: Final Project Workshop**
 - TBD
