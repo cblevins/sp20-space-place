@@ -18,9 +18,10 @@ Workshop: Georeferencing<br>
 *Project Example: Adam & Zach*
 
 **Week 3, 1/22: Cartography**
-- J.B. Harley, "Deconstructing the Map"
-- Barbara Mundy, “Mapping the Aztec Capital: The 1524 Nuremberg Map of Tenochtitlan, Its Sources and Meanings”
+- J.B. Harley, "Deconstructing the Map" *Cartographica* 26, no. 2 (1989):1-20.
+- Barbara Mundy, “Mapping the Aztec Capital: The 1524 Nuremberg Map of Tenochtitlan, Its Sources and Meanings” *Imago Mundi* 50, (1998), 11-33. 
 - [GIS Style guide](http://www.gismanual.com/style/) (just read: Topographic and Thematic Maps, Elements Every Map Should Have, and Graphical Hierarchy sections)
+- Practice your georeferencing skills in QGIS! Come to class with a georectified version of [this map plate of Beacon Hill]({{site.baseurl}}/downloads/bromley-atlas-plate09-1895.tif), ready to go on your laptop in GeoTIFF (.tif) file format. Note: the map comes from Plate 7 of this [1895 atlas of Boston](https://archives.lib.state.ma.us/handle/2452/205989). If you need a refresher on georectifying, see Fred Gibbs's tutorial ["Overlaying Historical Maps with QGIS"](http://fredgibbs.net/tutorials/qgis/overlaying-historic-maps-with-qgis.html).
 
 Workshop: Map Design<br>
 *Project Example: Sebastien & Alex*
