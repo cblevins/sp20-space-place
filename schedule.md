@@ -46,14 +46,16 @@ Workshop: Spatial Analysis<br>
 
 *Site Report Due Monday, February 10th by 11:59PM*
 
-**Week 6, 2/12: Place II**
+**Week 6, 2/12: Place II**<br>
+*Note: Meet in Digital Scholarship Commons, Snell Library 211*
 - Dolores Hayden, *The Power of Place*, p. 14-62.
 - Brian Page and Eric Ross, ["Envisioning the Urban Past: GIS Reconstruction of a Lost Denver District"](https://www.frontiersin.org/articles/10.3389/fdigh.2015.00003/full), *Frontiers in Digital Humanities* (11 August 2015).
 
 Workshop: 3D Modeling<br>
 *Project Example: Anjelica & Cassie*
 
-**Week 7, 2/19: Virtual and Embodied Space**
+**Week 7, 2/19: Virtual and Embodied Space**<br>
+*Note: Meet in Digital Scholarship Commons, Snell Library 211*
 - Setha Low, "Embodied Space(s): Anthropological Theories of Body, Space, and Culture”
 - Huang et. al., ["From Archive, to Access, to Experience - Historical Documents as a Basis for Immersive Experiences"](https://doi.org/10.1080/15420353.2018.1498427) *Journal of Map & Geography Libraries* (2018)
 - Spend at least *one hour* in the Snell Library Discovery Lab learning how to use their VR headsets and experimenting with any of the available games. Include your observations or reactions about your experience in your Slack discussion channel for this week.
