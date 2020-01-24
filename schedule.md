@@ -27,10 +27,13 @@ Workshop: Map Design<br>
 *Project Example: Sebastien & Alex*
 
 **Week 4, 1/29: Place I**
-- Tim Cresswell, *Place: A Short Introduction* (p. 1-12)
-- Yi-Fu Tuan, *Space and Place* (Chapter 1: Introduction, Chapter 2: Experiential Perspective, Chapter 5: Spaciousness and Crowding)
-- Stephen Kantrowitz, *More Than Freedom: Fighting for Black Citizenship in a White Republic, 1829-1889* (p. 1-9, 13-24)
-- James Oliver Horton and Lois E. Horton, *Black Bostonians*, p. 1-13.
+- Tim Cresswell, *Place: A Short Introduction* (2004), p. 1-12.
+- Yi-Fu Tuan, *Space and Place* (1977), Ch. 1-2 (p. 1-18), Ch. 5 (p. 51-66). 
+- Skim the following readings to get an introduction to Boston's African-American history:
+	- Stephen Kantrowitz, *More Than Freedom: Fighting for Black Citizenship in a White Republic, 1829-1889* (2012), p. 13-24.
+	- James Oliver Horton and Lois E. Horton, *Black Bostonians* (Revised Edition, 1999), p. 1-13.
+	- Kathryn Grover and Janine V. da Silva, *Historic Resource Study: Boston African American National Historic Site* (2002), p. 1-10.
+- Practice your map design skills in QGIS! Use the same 1880 census data from the Urban Transition Project that we used in class and make a map that displays enumeration districts: a) colored according to the percent of its population that is black, b) labeled with the total number of black people in that district. Take a screenshot of your map and include it with your discussion questions over Slack.
 
 Workshop: Spatial Data<br>
 *Project Example: Shannon*
