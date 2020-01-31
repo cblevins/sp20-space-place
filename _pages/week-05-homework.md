@@ -1,0 +1,16 @@
+---
+layout: page
+title: 
+---
+
+## Week 5 Homework: Spatial Data
+
+To help reinforce the skills you learned in Week 4, each of you are going to create a new shapefile. This time, you're going to be drawing the building footprint for one historic building resource identified in Kathryn Grover and Janine V. da Silva, *Historic Resource Study: Boston African American National Historic Site*. Refer to the Table of Contents for the street address and then the corresponding page numbers for more information about your building. Refer to <https://docs.qgis.org/2.8/en/docs/training_manual/create_vector_data/create_new_vector.html> if you need a refresher on the relevant QGIS skills.
+
+- Locate the building footprint in QGIS using OpenStreetMap tiles (you might need to cross-check in a browser with Google Maps).
+- Create a new polygon shapefile
+- In Edit mode, add a new polygon feature and draw the outline of the building footprint
+- In the Attribute Table, create **two new fields** [columns]: `Name` [name of the house listed in the Historic Resource Study] and `DOC` [Date of Construction]
+- Input corresponding values for your building in the two new fields, according to the Historic Resource Study
+- Save your edits! 
+- Open the Attribute Table and adjust the window so that you can see both the table and the building footprint on the map, then take a screenshot and include it with your Slack discussion questions for Week 5

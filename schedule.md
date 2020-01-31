@@ -39,10 +39,13 @@ Workshop: Spatial Data<br>
 *Project Example: Shannon*
 
 **Week 5, 2/5: Space I**
-- Doreen Massey, *For Space*, pp. 1-30.
-- Michel de Certeau, *The Practice of Everyday Life* (Ch. 7: Walking in the City)
+- Doreen Massey, *For Space*, p. 1-30.
+- Michel de Certeau, *The Practice of Everyday Life* (Ch. 7: Walking in the City), p. 91-110.
 - Karen Kemp, “Spatial Analysis, A-Z” from *The Spatial Humanities* (p. 48-53)
-- James Oliver Horton and Lois E. Horton, *Black Bostonians*, p. 15-27, 73-87.
+- Choose one of the following readings:
+	- James Oliver Horton and Lois E. Horton, *Black Bostonians* (Revised Edition, 1999), p. 14-26.
+	- Stephen Kantrowitz, *More Than Freedom: Fighting for Black Citizenship in a White Republic, 1829-1889* (2012), p. 28-40.
+- [Practice your skills making spatial data in QGIS!]({{site.baseurl}}/week-05-homework)
 
 Workshop: Spatial Analysis<br>
 *Project Example: Alicia & Jill*
