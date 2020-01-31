@@ -39,8 +39,9 @@ Workshop: Spatial Data<br>
 *Project Example: Shannon*
 
 **Week 5, 2/5: Space I**
-- Doreen Massey, *For Space*, p. 1-30.
-- Michel de Certeau, *The Practice of Everyday Life* (Ch. 7: Walking in the City), p. 91-110.
+- Doreen Massey, *For Space*, p. 1-15. 
+- Listen to first 10:20 of [interview with Doreen Massey](https://www.youtube.com/watch?v=Quj4tjbTPxw) for *Social Science Bites*.
+- George Chauncey, *Gay New York: Gender, Urban Culture, and the Making of the Gay Male World, 1890-1940* p. 1-8, 23-24, 178-205. 
 - Karen Kemp, “Spatial Analysis, A-Z” from *The Spatial Humanities* (p. 48-53)
 - Choose one of the following readings:
 	- James Oliver Horton and Lois E. Horton, *Black Bostonians* (Revised Edition, 1999), p. 14-26.
@@ -71,6 +72,7 @@ Workshop: 3D Modeling II<br>
 
 **Week 8, 2/26: Space II**
 - Henri Lefebvre, *The Production of Space* (selections)
+- Michel de Certeau, *The Practice of Everyday Life* (Ch. 7: Walking in the City), p. 91-110.
 - George Chauncey, *Gay New York: Gender, Urban Culture, and the Making of the Gay Male World, 1890-1940* (selections)
 
 Workshop: TBD<br>
