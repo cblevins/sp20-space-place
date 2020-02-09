@@ -1,3 +1,24 @@
+<li class='c-nav__item' role='presentation'>
+  <a class='c-nav__link' href='{{ "/" | prepend:site.baseurl }}'>About This Course</a>
+  <a class='c-nav__link' href='{{ "/assignments" | prepend: site.baseurl }}'>Assignments</a>
+  <a class='c-nav__link' href='{{ "/policies" | prepend: site.baseurl }}'>Policies</a>
+  <a class='c-nav__link' href='{{ "/Schedule" | prepend: site.baseurl }}'>Schedule</a>
+</li>
+
+<!--{% for page in site.pages %}
+  {% unless page.name == '404.md' %}
+    {% if page.title %}
+      {% if page.name == "index.md" or page.name == "assignments.md" or page.name == "policies.md" or page.name == "schedule.md" %}
+        <li class='c-nav__item' role='presentation'>
+          <a class='c-nav__link' href='{{ page.url | prepend: site.baseurl }}'>{{ page.title }}</a>
+        </li>
+      {% endif %}
+    {% endif %}
+  {% endunless %}
+{% endfor %}
+-->
+
+<!--old stuff:
 {% for page in site.pages %}
   {% unless page.name == '404.md' %}
     {% if page.title %}
@@ -7,8 +28,4 @@
     {% endif %}
   {% endunless %}
 {% endfor %}
-
-<!--<li class='c-nav__item' role='presentation'>
-  <a class='c-nav__link' href='http://espn.com'>TESTING</a>
-</li>
 -->
