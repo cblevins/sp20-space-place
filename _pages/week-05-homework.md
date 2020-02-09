@@ -1,5 +1,6 @@
 ---
 layout: page
+title:
 ---
 
 ## Week 5 Homework: Spatial Data
