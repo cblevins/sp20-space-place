@@ -58,7 +58,7 @@ Workshop: Spatial Analysis<br>
 - Dolores Hayden, *The Power of Place*, p. 14-62.
 - Brian Page and Eric Ross, ["Envisioning the Urban Past: GIS Reconstruction of a Lost Denver District"](https://www.frontiersin.org/articles/10.3389/fdigh.2015.00003/full), *Frontiers in Digital Humanities* (11 August 2015).
 
-Workshop: 3D Modeling<br>
+Workshop: 3D Modeling I<br>
 *Project Example: Anjelica & Cassie*
 
 **Week 7, 2/19: Virtual and Embodied Space**<br>
@@ -73,7 +73,6 @@ Workshop: 3D Modeling II<br>
 **Week 8, 2/26: Space II**
 - Henri Lefebvre, *The Production of Space* (selections)
 - Michel de Certeau, *The Practice of Everyday Life* (Ch. 7: Walking in the City), p. 91-110.
-- George Chauncey, *Gay New York: Gender, Urban Culture, and the Making of the Gay Male World, 1890-1940* (selections)
 
 Workshop: TBD<br>
 *Project Example: Carly*
@@ -92,7 +91,7 @@ Workshop: TBD<br>
 - David Bodenhamer, “Narrating Space and Place" (2015)
 - Explore the project "Slave Revolt in Jamaica, 1760-1761: A Cartographic Narrative" and then read Vincent Brown, "Mapping a Slave Revolt: Visualizing Spatial History through the Archives of Slavery" (2015)
 
-*Project Example: Nav*
+Workshop: TBD<br>
 
 **Week 11, 3/25: Final Project Workshop**
 - TBD
