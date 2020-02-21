@@ -71,10 +71,11 @@ Workshop: 3D Modeling II<br>
 *Project Example: Danielle & Claire*
 
 **Week 8, 2/26: Space II**
-- Henri Lefebvre, *The Production of Space* (selections)
+- Henri Lefebvre, *The Production of Space*, p. 26-39.
 - Michel de Certeau, *The Practice of Everyday Life* (Ch. 7: Walking in the City), p. 91-110.
+- Epeli Hau‘ofa, "Our Sea of Islands" (1993)
 
-Workshop: TBD<br>
+Workshop: Project Planning Session<br>
 *Project Example: Carly*
 
 ~~3/4: No Class - Spring Break~~
