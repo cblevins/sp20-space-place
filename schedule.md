@@ -70,7 +70,9 @@ Workshop: 3D Modeling I<br>
 Workshop: 3D Modeling II<br>
 *Project Example: Danielle & Claire*
 
-**Week 8, 2/26: Space II**
+**Week 8, 2/26: Space II**<br>
+*Note: Ryan McNabb from the National Park Service will be visiting class today to discuss the group project*
+
 - Henri Lefebvre, *The Production of Space*, p. 26-39.
 - Michel de Certeau, *The Practice of Everyday Life* (Ch. 7: Walking in the City), p. 91-110.
 - Epeli Hau‘ofa, "Our Sea of Islands" (1993)
