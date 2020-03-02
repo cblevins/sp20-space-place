@@ -83,8 +83,8 @@ Workshop: Project Planning Session<br>
 ~~3/4: No Class - Spring Break~~
 
 **Week 9, 3/11: Power, Space, and Place**
-- Rashad Shabazz, *Spatializing Blackness: Architectures of Confinement and Black Masculinity in Chicago* (selections)
-- Kay Anderson, "The Idea of Chinatown: The Power of Place and Institutional Practice in the Making of a Racial Category”
+- Wendy Cheng and Rashad Shabazz, ["Introduction: Race, Space, and Scale in the Twenty-First Century"](https://arcade.stanford.edu/occasion/introduction-race-space-and-scale-twenty-first-century), *Occasion* (2015).
+- Kay Anderson, "The Idea of Chinatown: The Power of Place and Institutional Practice in the Making of a Racial Category” (1987)
 - Nancy Lee Peluso, “Whose Woods are These? Counter-Mapping Forest Territories in Kalimantan, Indonesia” (1995)
 
 Workshop: TBD<br>
