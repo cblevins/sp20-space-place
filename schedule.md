@@ -92,7 +92,7 @@ Workshop: TBD<br>
 
 **Week 10, 3/18: Spatial Narratives**
 - David Bodenhamer, “Narrating Space and Place" (2015)
-- Explore the project "Slave Revolt in Jamaica, 1760-1761: A Cartographic Narrative" and then read Vincent Brown, "Mapping a Slave Revolt: Visualizing Spatial History through the Archives of Slavery" (2015)
+- Explore the project ["Slave Revolt in Jamaica, 1760-1761: A Cartographic Narrative"](http://revolt.axismaps.com/) and then read Vincent Brown, ["Mapping a Slave Revolt: Visualizing Spatial History through the Archives of Slavery"](https://doi.org/10.1215/01642472-3315826) *Social Text* (2015)
 
 Workshop: TBD<br>
 
