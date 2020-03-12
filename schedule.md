@@ -90,6 +90,8 @@ Workshop: Project Planning Session<br>
 Workshop: TBD<br>
 *Project Example: Hailey & Mahala*
 
+***Update (3/12): Due to Northeastern's decision to move to online learning in the face of COVID-19, please refer to the Slack workspace for remaining weeks of the semester.***<br>
+
 **Week 10, 3/18: Spatial Narratives**
 - David Bodenhamer, “Narrating Space and Place" (2015)
 - Explore the project ["Slave Revolt in Jamaica, 1760-1761: A Cartographic Narrative"](http://revolt.axismaps.com/) and then read Vincent Brown, ["Mapping a Slave Revolt: Visualizing Spatial History through the Archives of Slavery"](https://doi.org/10.1215/01642472-3315826) *Social Text* (2015)
